@@ -7,7 +7,7 @@
 <project name="Galaxy-C9-Pro/lineage_android_device_samsung_c9ltechn" path="device/samsung/c9ltechn" remote="github" />
 <project name="Galaxy-C9-Pro/vendor_samsung_c9lte" path="vendor/samsung/c9lte" remote="github" />
 <project name="Galaxy-C9-Pro/vendor_samsung_c9ltechn" path="vendor/samsung/c9ltechn" remote="github" />
-<project name="Galaxy-C9-Pro/vendor_samsung_c9lte-common" path="vendor/samsung/c9lte-common" remote="github" revision="master" />
+<project name="Galaxy-C9-Pro/vendor_samsung_c9lte-common" path="vendor/samsung/c9lte-common" remote="github" revision="cm-14.1" />
 <project name="Galaxy-C9-Pro/android_kernel_samsung_msm8976" path="kernel/samsung/msm8976" remote="github" revision="Touchwiz-6.0" />
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
 <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" />
